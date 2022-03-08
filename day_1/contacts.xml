@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="contacts.css"?>
+
+<contacts>
+                      
+                      <employee>
+                      <name > Muhammed Ahmed Ismail</name>
+                        <adresses>
+                        <phones>
+                          <phone type="mobile">0123456789</phone> 
+                          <phone type="home">0123456789</phone>
+                          <phone type="work">0123456789</phone>
+                        </phones>
+                            <address >
+                                          <country> Egypt</country>
+                                          <city> Alexandria</city>
+                                          <region>Bacus</region>
+                                          <street> st1</street>
+                                          <building> 7</building>
+                            </address>
+                        </adresses>
+                        <email> muhammed@gmail,com</email>
+                      
+                      </employee> 
+                      
+                      <employee>
+                      <name > Muhammed Ahmed Ismail</name>
+                        <adresses>
+                        <phones>
+                          <phone type="mobile">0123456789</phone> 
+                          <phone type="home">0123456789</phone>
+                          <phone type="work">0123456789</phone>
+                        </phones>
+                            <address >
+                                          <country> Egypt</country>
+                                          <city> Alexandria</city>
+                                          <region>Bacus</region>
+                                          <street> st1</street>
+                                          <building> 7</building>
+                            </address>
+                        </adresses>
+                        <email> muhammed@gmail,com</email>
+                      
+                      </employee>  
+                      <employee>
+                      <name > Muhammed Ahmed Ismail</name>
+                        <adresses>
+                        <phones>
+                          <phone type="mobile">0123456789</phone> 
+                          <phone type="home">0123456789</phone>
+                          <phone type="work">0123456789</phone>
+                        </phones>
+                            <address >
+                                          <country> Egypt</country>
+                                          <city> Alexandria</city>
+                                          <region>Bacus</region>
+                                          <street> st1</street>
+                                          <building> 7</building>
+                            </address>
+                        </adresses>
+                        <email> muhammed@gmail,com</email>
+                      
+                      </employee>
+                      
+                      
+                      
+                      
+</contacts>
