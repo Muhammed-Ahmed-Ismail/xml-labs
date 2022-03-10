@@ -1,0 +1,288 @@
+﻿<?xml version="1.0"?>
+
+<resultset statement="select * from items" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <row>
+	<field name="id">1</field>
+	<field name="PRODUCT_code">test</field>
+	<field name="product_name">new</field>
+	<field name="Photo">Screenshot from 2022-03-06 12-11-12.png</field>
+	<field name="list_price">20.00</field>
+	<field name="reorder_level" xsi:nil="true" />
+	<field name="Units_In_Stock" xsi:nil="true" />
+	<field name="category" xsi:nil="true" />
+	<field name="CouNtry" xsi:nil="true" />
+	<field name="Rating" xsi:nil="true" />
+	<field name="discontinued" xsi:nil="true" />
+	<field name="date" xsi:nil="true" />
+  </row>
+
+  <row>
+	<field name="id">17</field>
+	<field name="PRODUCT_code">NWTCFV-17</field>
+	<field name="product_name">pilot</field>
+	<field name="Photo">01.png</field>
+	<field name="list_price">14.50</field>
+	<field name="reorder_level">10</field>
+	<field name="Units_In_Stock">30</field>
+	<field name="category">Kontrollkästchen einzuschließen</field>
+	<field name="CouNtry">Italy</field>
+	<field name="Rating">4.80</field>
+	<field name="discontinued"></field>
+	<field name="date">2018-10-28 22:51:15</field>
+  </row>
+
+  <row>
+	<field name="id">88</field>
+	<field name="PRODUCT_code">NWTCFV-88</field>
+	<field name="product_name">ClubMaster</field>
+	<field name="Photo">02.png</field>
+	<field name="list_price">12.50</field>
+	<field name="reorder_level">5</field>
+	<field name="Units_In_Stock">15</field>
+	<field name="category">sunglasses</field>
+	<field name="CouNtry">Italy</field>
+	<field name="Rating">5.00</field>
+	<field name="discontinued"> </field>
+	<field name="date">2018-09-28 22:51:28</field>
+  </row>
+
+  <row>
+	<field name="id">89</field>
+	<field name="PRODUCT_code">NWTCFV-89</field>
+	<field name="product_name">Oval</field>
+	<field name="Photo">03.png</field>
+	<field name="list_price">10.95</field>
+	<field name="reorder_level">5</field>
+	<field name="Units_In_Stock">2</field>
+	<field name="category">sunglasses</field>
+	<field name="CouNtry">USA</field>
+	<field name="Rating">4.50</field>
+	<field name="discontinued"></field>
+	<field name="date">2018-09-28 22:51:32</field>
+  </row>
+
+  <row>
+	<field name="id">90</field>
+	<field name="PRODUCT_code">NWTCFV-90</field>
+	<field name="product_name">Semi-Rimless</field>
+	<field name="Photo">04.png</field>
+	<field name="list_price">11.95</field>
+	<field name="reorder_level">5</field>
+	<field name="Units_In_Stock">15</field>
+	<field name="category">sunglasses</field>
+	<field name="CouNtry">USA</field>
+	<field name="Rating">5.00</field>
+	<field name="discontinued"></field>
+	<field name="date">2018-08-28 22:51:37</field>
+  </row>
+
+  <row>
+	<field name="id">91</field>
+	<field name="PRODUCT_code">NWTCFV-91</field>
+	<field name="product_name">Aviator</field>
+	<field name="Photo">05.png</field>
+	<field name="list_price">11.95</field>
+	<field name="reorder_level">10</field>
+	<field name="Units_In_Stock">12</field>
+	<field name="category">sunglasses</field>
+	<field name="CouNtry">France</field>
+	<field name="Rating">4.00</field>
+	<field name="discontinued"></field>
+	<field name="date">2018-08-28 22:51:42</field>
+  </row>
+
+  <row>
+	<field name="id">92</field>
+	<field name="PRODUCT_code">NWTCFV-92</field>
+	<field name="product_name">pilot</field>
+	<field name="Photo">06.png</field>
+	<field name="list_price">11.50</field>
+	<field name="reorder_level">10</field>
+	<field name="Units_In_Stock">29</field>
+	<field name="category">sunglasses</field>
+	<field name="CouNtry">France</field>
+	<field name="Rating">4.50</field>
+	<field name="discontinued"> </field>
+	<field name="date">2018-08-28 22:51:49</field>
+  </row>
+
+  <row>
+	<field name="id">93</field>
+	<field name="PRODUCT_code">NWTCFV-93</field>
+	<field name="product_name">Cat Eye</field>
+	<field name="Photo">07.png</field>
+	<field name="list_price">13.00</field>
+	<field name="reorder_level">10</field>
+	<field name="Units_In_Stock">2</field>
+	<field name="category">sunglasses</field>
+	<field name="CouNtry">USA</field>
+	<field name="Rating">4.70</field>
+	<field name="discontinued"></field>
+	<field name="date">2018-09-28 22:51:54</field>
+  </row>
+
+  <row>
+	<field name="id">94</field>
+	<field name="PRODUCT_code">NWTCFV-94</field>
+	<field name="product_name">Sport</field>
+	<field name="Photo">08.png</field>
+	<field name="list_price">15.00</field>
+	<field name="reorder_level">10</field>
+	<field name="Units_In_Stock">10</field>
+	<field name="category">sunglasses</field>
+	<field name="CouNtry">Canada</field>
+	<field name="Rating">4.30</field>
+	<field name="discontinued"> </field>
+	<field name="date">2018-09-28 22:52:08</field>
+  </row>
+
+  <row>
+	<field name="id">100</field>
+	<field name="PRODUCT_code">NWTCFV-100</field>
+	<field name="product_name">Browline</field>
+	<field name="Photo">09.png</field>
+	<field name="list_price">14.00</field>
+	<field name="reorder_level">10</field>
+	<field name="Units_In_Stock">4</field>
+	<field name="category">sunglasses</field>
+	<field name="CouNtry">USA</field>
+	<field name="Rating">4.60</field>
+	<field name="discontinued"></field>
+	<field name="date">2018-08-28 22:52:14</field>
+  </row>
+
+  <row>
+	<field name="id">101</field>
+	<field name="PRODUCT_code">NWTCFV-150</field>
+	<field name="product_name">Square</field>
+	<field name="Photo">10.png</field>
+	<field name="list_price">11.95</field>
+	<field name="reorder_level">10</field>
+	<field name="Units_In_Stock">3</field>
+	<field name="category">sunglasses</field>
+	<field name="CouNtry">Italy</field>
+	<field name="Rating">3.80</field>
+	<field name="discontinued"> </field>
+	<field name="date">2018-08-28 22:52:19</field>
+  </row>
+
+  <row>
+	<field name="id">102</field>
+	<field name="PRODUCT_code">NWTCFV-101</field>
+	<field name="product_name">pilot</field>
+	<field name="Photo">11.png</field>
+	<field name="list_price">12.95</field>
+	<field name="reorder_level">10</field>
+	<field name="Units_In_Stock">17</field>
+	<field name="category">sunglasses</field>
+	<field name="CouNtry">Italy</field>
+	<field name="Rating">4.30</field>
+	<field name="discontinued"></field>
+	<field name="date">2018-07-28 22:52:25</field>
+  </row>
+
+  <row>
+	<field name="id">103</field>
+	<field name="PRODUCT_code">NWTCFV-120</field>
+	<field name="product_name">Butterfly</field>
+	<field name="Photo">12.png</field>
+	<field name="list_price">13.50</field>
+	<field name="reorder_level">5</field>
+	<field name="Units_In_Stock">9</field>
+	<field name="category">sunglasses</field>
+	<field name="CouNtry">Italy</field>
+	<field name="Rating">4.80</field>
+	<field name="discontinued"> </field>
+	<field name="date">2018-09-28 22:52:32</field>
+  </row>
+
+  <row>
+	<field name="id">104</field>
+	<field name="PRODUCT_code">NWTCFV-130</field>
+	<field name="product_name">Katy</field>
+	<field name="Photo">13.png</field>
+	<field name="list_price">13.00</field>
+	<field name="reorder_level">10</field>
+	<field name="Units_In_Stock">19</field>
+	<field name="category">sunglasses</field>
+	<field name="CouNtry">France</field>
+	<field name="Rating">4.50</field>
+	<field name="discontinued"></field>
+	<field name="date">2018-09-28 22:52:37</field>
+  </row>
+
+  <row>
+	<field name="id">105</field>
+	<field name="PRODUCT_code">NWTCFV-140</field>
+	<field name="product_name">Retro Square</field>
+	<field name="Photo">14.png</field>
+	<field name="list_price">12.00</field>
+	<field name="reorder_level">10</field>
+	<field name="Units_In_Stock">4</field>
+	<field name="category">sunglasses</field>
+	<field name="CouNtry">USA</field>
+	<field name="Rating">5.00</field>
+	<field name="discontinued"> </field>
+	<field name="date">2018-09-28 22:52:41</field>
+  </row>
+
+  <row>
+	<field name="id">106</field>
+	<field name="PRODUCT_code">NWTCFV-160</field>
+	<field name="product_name">pilot</field>
+	<field name="Photo">15.png</field>
+	<field name="list_price">12.00</field>
+	<field name="reorder_level">10</field>
+	<field name="Units_In_Stock">20</field>
+	<field name="category">sunglasses</field>
+	<field name="CouNtry">Canada</field>
+	<field name="Rating">5.00</field>
+	<field name="discontinued"></field>
+	<field name="date">2018-08-28 22:52:46</field>
+  </row>
+
+  <row>
+	<field name="id">111</field>
+	<field name="PRODUCT_code">NWTCFV-161</field>
+	<field name="product_name">Cat Eye</field>
+	<field name="Photo">12.png</field>
+	<field name="list_price">11.00</field>
+	<field name="reorder_level">10</field>
+	<field name="Units_In_Stock">10</field>
+	<field name="category">sunglasses</field>
+	<field name="CouNtry">France</field>
+	<field name="Rating">4.00</field>
+	<field name="discontinued"></field>
+	<field name="date">2018-08-28 22:52:50</field>
+  </row>
+
+  <row>
+	<field name="id">555</field>
+	<field name="PRODUCT_code">test</field>
+	<field name="product_name">dd</field>
+	<field name="Photo">new.jpg</field>
+	<field name="list_price">20.00</field>
+	<field name="reorder_level" xsi:nil="true" />
+	<field name="Units_In_Stock" xsi:nil="true" />
+	<field name="category" xsi:nil="true" />
+	<field name="CouNtry" xsi:nil="true" />
+	<field name="Rating" xsi:nil="true" />
+	<field name="discontinued" xsi:nil="true" />
+	<field name="date" xsi:nil="true" />
+  </row>
+
+  <row>
+	<field name="id">5055</field>
+	<field name="PRODUCT_code">test</field>
+	<field name="product_name">sss</field>
+	<field name="Photo">new.jpg</field>
+	<field name="list_price">20.00</field>
+	<field name="reorder_level" xsi:nil="true" />
+	<field name="Units_In_Stock" xsi:nil="true" />
+	<field name="category" xsi:nil="true" />
+	<field name="CouNtry" xsi:nil="true" />
+	<field name="Rating" xsi:nil="true" />
+	<field name="discontinued" xsi:nil="true" />
+	<field name="date" xsi:nil="true" />
+  </row>
+</resultset>

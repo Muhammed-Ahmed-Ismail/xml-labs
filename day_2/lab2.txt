@@ -1,0 +1,1 @@
+ sudo mysql --xml -uroot -e "use northwind; select * from items;" > itemsdb.xml

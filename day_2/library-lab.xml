@@ -1,0 +1,215 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<library>
+                  <about>
+                                              <location>
+                                                  Al Azaritah WA Ash Shatebi, Bab Sharqi, Alexandria Governorate 21526
+                                              </location>
+                                              <desc>
+                                              The Bibliotheca Alexandrina is a major library and cultural center on the shore of the Mediterranean Sea in the Egyptian city of Alexandria
+                                              </desc>
+                                              <staff>
+                                                              <librarian>
+                                                                              <name> muahmmed ismail</name>
+                                                                              <phone> 012345</phone>
+                                                                              <email> muhammed@gmail.com</email>
+                                                              </librarian>              
+                                              </staff>
+                  </about>
+                  
+                  <books>
+                            <book>
+                                      <title> abs</title>
+                                      <isbn> 123</isbn>
+                                      <author> muhammed</author>
+                                      <preface>  </preface>
+                                      <parts>
+                                               <part>
+                                                       <part-title> abc</part-title>
+                                                               <chapters>
+                                                                          <chapter>
+                                                                                  <ch-title> abc</ch-title>
+                                                                                  <summary> Lorem ipsum dolor sit amet, consectetur
+                                                                                   adipiscing elit, sed do eiusmod tempor incididunt ut labore 
+                                                                                   et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud 
+                                                                                   exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                                                                                    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
+                                                                                     dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non 
+                                                                                  proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                                                                                  </summary>
+                                                                                  <sections>
+                                                                                                <section  secno="1" pragragphs-no="4">
+                                                                                                                      <p no="1">
+                                                                                                                        Lorem ipsum dolor sit amet, consectetur
+                                                                                                                       adipiscing elit, sed do eiusmod tempor incididunt ut labore 
+                                                                                                                       et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud 
+                                                                                                                       exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                                                                                                                        Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
+                                                                                                                         dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non 
+                                                                                                                      proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                                                                                                                      </p>
+                                                                                                                      <p no="2">
+                                                                                                                        Lorem ipsum dolor sit amet, consectetur
+                                                                                                                       adipiscing elit, sed do eiusmod tempor incididunt ut labore 
+                                                                                                                       et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud 
+                                                                                                                       exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                                                                                                                        Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
+                                                                                                                         dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non 
+                                                                                                                      proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                                                                                                                      </p>
+                                                                                                                      <p no="3">
+                                                                                                                        Lorem ipsum dolor sit amet, consectetur
+                                                                                                                       adipiscing elit, sed do eiusmod tempor incididunt ut labore 
+                                                                                                                       et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud 
+                                                                                                                       exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                                                                                                                        Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
+                                                                                                                         dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non 
+                                                                                                                      proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                                                                                                                      </p>
+                                                                                                                      <p no="4">
+                                                                                                                        Lorem ipsum dolor sit amet, consectetur
+                                                                                                                       adipiscing elit, sed do eiusmod tempor incididunt ut labore 
+                                                                                                                       et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud 
+                                                                                                                       exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                                                                                                                        Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
+                                                                                                                         dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non 
+                                                                                                                      proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                                                                                                                      </p>
+                                                                                                </section>
+                                                                                  </sections>
+                                                                          </chapter>
+                                                               </chapters>
+                                               </part>
+                                      </parts>
+                            </book>
+                            
+                            <book>
+                                      <title> abs</title>
+                                      <isbn> 123</isbn>
+                                      <author> muhammed</author>
+                                      <preface>  </preface>
+                                      <parts>
+                                               <part>
+                                                       <part-title> abc</part-title>
+                                                               <chapters>
+                                                                          <chapter>
+                                                                                  <ch-title> abc</ch-title>
+                                                                                  <summary> Lorem ipsum dolor sit amet, consectetur
+                                                                                   adipiscing elit, sed do eiusmod tempor incididunt ut labore 
+                                                                                   et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud 
+                                                                                   exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                                                                                    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
+                                                                                     dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non 
+                                                                                  proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                                                                                  </summary>
+                                                                                  <sections>
+                                                                                                <section  secno="1" pragragphs-no="4">
+                                                                                                                      <p no="1">
+                                                                                                                        Lorem ipsum dolor sit amet, consectetur
+                                                                                                                       adipiscing elit, sed do eiusmod tempor incididunt ut labore 
+                                                                                                                       et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud 
+                                                                                                                       exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                                                                                                                        Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
+                                                                                                                         dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non 
+                                                                                                                      proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                                                                                                                      </p>
+                                                                                                                      <p no="2">
+                                                                                                                        Lorem ipsum dolor sit amet, consectetur
+                                                                                                                       adipiscing elit, sed do eiusmod tempor incididunt ut labore 
+                                                                                                                       et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud 
+                                                                                                                       exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                                                                                                                        Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
+                                                                                                                         dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non 
+                                                                                                                      proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                                                                                                                      </p>
+                                                                                                                      <p no="3">
+                                                                                                                        Lorem ipsum dolor sit amet, consectetur
+                                                                                                                       adipiscing elit, sed do eiusmod tempor incididunt ut labore 
+                                                                                                                       et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud 
+                                                                                                                       exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                                                                                                                        Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
+                                                                                                                         dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non 
+                                                                                                                      proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                                                                                                                      </p>
+                                                                                                                      <p no="4">
+                                                                                                                        Lorem ipsum dolor sit amet, consectetur
+                                                                                                                       adipiscing elit, sed do eiusmod tempor incididunt ut labore 
+                                                                                                                       et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud 
+                                                                                                                       exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                                                                                                                        Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
+                                                                                                                         dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non 
+                                                                                                                      proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                                                                                                                      </p>
+                                                                                                </section>
+                                                                                  </sections>
+                                                                          </chapter>
+                                                               </chapters>
+                                               </part>
+                                      </parts>
+                            </book><book>
+                                      <title> abs</title>
+                                      <isbn> 123</isbn>
+                                      <author> muhammed</author>
+                                      <preface>  </preface>
+                                      <parts>
+                                               <part>
+                                                       <part-title> abc</part-title>
+                                                               <chapters>
+                                                                          <chapter>
+                                                                                  <ch-title> abc</ch-title>
+                                                                                  <summary> Lorem ipsum dolor sit amet, consectetur
+                                                                                   adipiscing elit, sed do eiusmod tempor incididunt ut labore 
+                                                                                   et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud 
+                                                                                   exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                                                                                    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
+                                                                                     dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non 
+                                                                                  proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                                                                                  </summary>
+                                                                                  <sections>
+                                                                                                <section  secno="1" pragragphs-no="4">
+                                                                                                                      <p no="1">
+                                                                                                                        Lorem ipsum dolor sit amet, consectetur
+                                                                                                                       adipiscing elit, sed do eiusmod tempor incididunt ut labore 
+                                                                                                                       et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud 
+                                                                                                                       exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                                                                                                                        Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
+                                                                                                                         dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non 
+                                                                                                                      proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                                                                                                                      </p>
+                                                                                                                      <p no="2">
+                                                                                                                        Lorem ipsum dolor sit amet, consectetur
+                                                                                                                       adipiscing elit, sed do eiusmod tempor incididunt ut labore 
+                                                                                                                       et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud 
+                                                                                                                       exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                                                                                                                        Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
+                                                                                                                         dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non 
+                                                                                                                      proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                                                                                                                      </p>
+                                                                                                                      <p no="3">
+                                                                                                                        Lorem ipsum dolor sit amet, consectetur
+                                                                                                                       adipiscing elit, sed do eiusmod tempor incididunt ut labore 
+                                                                                                                       et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud 
+                                                                                                                       exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                                                                                                                        Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
+                                                                                                                         dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non 
+                                                                                                                      proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                                                                                                                      </p>
+                                                                                                                      <p no="4">
+                                                                                                                        Lorem ipsum dolor sit amet, consectetur
+                                                                                                                       adipiscing elit, sed do eiusmod tempor incididunt ut labore 
+                                                                                                                       et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud 
+                                                                                                                       exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                                                                                                                        Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
+                                                                                                                         dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non 
+                                                                                                                      proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                                                                                                                      </p>
+                                                                                                </section>
+                                                                                  </sections>
+                                                                          </chapter>
+                                                               </chapters>
+                                               </part>
+                                      </parts>
+                            </book>
+                      
+                  </books>
+
+</library>

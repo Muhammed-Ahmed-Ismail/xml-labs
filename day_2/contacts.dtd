@@ -1,0 +1,15 @@
+<!ELEMENT contacts (employee+)>
+<!ELEMENT employee (name, phones, adresses, email)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT phones (phone+)>
+<!ELEMENT phone (#PCDATA)>
+<!ATTLIST phone
+          type CDATA #REQUIRED>
+<!ELEMENT adresses (address)>
+<!ELEMENT address (country, city, region, street, building)>
+<!ELEMENT country (#PCDATA)>
+<!ELEMENT city (#PCDATA)>
+<!ELEMENT region (#PCDATA)>
+<!ELEMENT street (#PCDATA)>
+<!ELEMENT building (#PCDATA)>
+<!ELEMENT email (#PCDATA)>
