@@ -1,1 +1,29 @@
  sudo mysql --xml -uroot -e "use northwind; select * from items;" > itemsdb.xml
+ ============
+ sql queries
+=================
+ create database xmlloadeddb;
+ use xmlloadeddb;
+ CREATE TABLE IF NOT EXISTS `items` (
+  `id` int(11) NOT NULL,
+  `PRODUCT_code` varchar(25) DEFAULT 'test',
+  `product_name` varchar(50) DEFAULT NULL,
+  `Photo` varchar(50) DEFAULT NULL,
+  `list_price` decimal(10,2) NOT NULL DEFAULT '20.00',
+  `reorder_level` int(11) DEFAULT NULL,
+  `Units_In_Stock` int(11) DEFAULT NULL,
+  `category` varchar(50) DEFAULT NULL,
+  `CouNtry` varchar(50) DEFAULT NULL,
+  `Rating` decimal(3,2) DEFAULT NULL,
+  `discontinued` bit(1) DEFAULT NULL,
+  `date` datetime DEFAULT NULL,
+  PRIMARY KEY (`id`),
+  KEY `product_code` (`PRODUCT_code`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8 ROW_FORMAT=COMPACT;
+set global loca_infile=1;
++++++++++++++++++++++++++++++
+sudo mysql --local_infile=1 -uroot -p
+
+use xmlloadeddb
+
+load xml local infile '/path of the file' into table items rows identified by '<row>';

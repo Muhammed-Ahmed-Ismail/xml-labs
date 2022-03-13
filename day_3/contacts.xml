@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="style.xsl"?>
+
+<contacts>
+                      
+                      <employee>
+                      <name > Muhammed Ahmed Ismail</name>
+                        <phones>
+                          <phone type="mobile">0123456789</phone> 
+                          <phone type="home">0123456789</phone>
+                          <phone type="work">0123456789</phone>
+                        </phones>
+                          <adresses>
+                            <address >
+                                Egypt Alexandria Bacus st1 7
+                            </address>
+                              <address >
+                                Egypt Alexandria Bacus st1 7
+                            </address><address >
+                                Egypt Alexandria Bacus st1 7
+                            </address>
+                        </adresses>
+                        <email> muhammed@gmail,com</email>
+                     </employee>
+<employee>
+                      <name > Muhammed Ahmed Ismail</name>
+                        <phones>
+                          <phone type="mobile">0123456789</phone>
+                          <phone type="home">0123456789</phone>
+                          <phone type="work">0123456789</phone>
+                        </phones>
+                          <adresses>
+                            <address >
+                                Egypt Alexandria Bacus st1 7
+                            </address>
+                              <address >
+                                Egypt Alexandria Bacus st1 7
+                            </address><address >
+                                Egypt Alexandria Bacus st1 7
+                            </address>
+                        </adresses>
+                        <email> muhammed@gmail,com</email>
+                     </employee>
+<employee>
+                      <name > Muhammed Ahmed Ismail</name>
+                        <phones>
+                          <phone type="mobile">0123456789</phone>
+                          <phone type="home">0123456789</phone>
+                          <phone type="work">0123456789</phone>
+                        </phones>
+                          <adresses>
+                            <address >
+                                Egypt Alexandria Bacus st1 7
+                            </address>
+                              <address >
+                                Egypt Alexandria Bacus st1 7
+                            </address><address >
+                                Egypt Alexandria Bacus st1 7
+                            </address>
+                        </adresses>
+                        <email> muhammed@gmail,com</email>
+                     </employee>
+
+
+
+</contacts>
