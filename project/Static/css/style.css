@@ -1,0 +1,48 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body
+{
+    background-color: #005f73;
+
+}
+.flex
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.flex-column
+{
+    flex-direction: column;
+}
+.flex-row
+{
+    gap: 10px;
+}
+
+.form-container
+{
+    width: 30%;
+    padding: 20px;
+    background-color: #e9d8a6;
+    border-radius: 50px;
+}
+input
+{
+    height: 30px;
+    font-size: 14px;
+    border: solid .5px gray;
+    border-radius: 5px;
+    outline: none;
+    padding: 5px;
+}
+/*
+#xml-form
+{
+    width: 80%;
+}*/
