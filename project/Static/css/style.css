@@ -41,6 +41,10 @@ input
     outline: none;
     padding: 5px;
 }
+.input-container
+{
+    padding: 10px;
+}
 /*
 #xml-form
 {

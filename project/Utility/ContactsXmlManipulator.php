@@ -8,7 +8,7 @@ class ContactsXmlManipulator
     public function __construct()
     {
         $this->xmlFileHandler=simplexml_load_file(_filePath);
-        echo $this->xmlFileHandler;
+      //  echo $this->xmlFileHandler;
     }
     /*methods*/
     public function createEmployeeRecord(string $name,string $phone,string $address,string $email)

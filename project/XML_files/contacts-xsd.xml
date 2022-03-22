@@ -3,43 +3,15 @@
 
 
     <employee>
-        <name>Muhammed Ahmed Ismail</name>
-        <phone>54</phone>
+        <name>mukammed</name>
+        <phone>5434</phone>
         <address>717 Ibn Easel St Azzaheria</address>
-        <email>mido1001027@gmail.com</email>
-    </employee>
-
-    <employee>
-        <name>Muhammed Ahmed Ismail</name>
-        <phone>543</phone>
-        <address>717 Ibn Easel St Azzaheria</address>
-        <email>mido1001027@gmail.com</email>
+        <email>Muhammed@gmail.com</email>
     </employee>
     <employee>
         <name>Ali</name>
-        <phone>544</phone>
+        <phone>5434</phone>
         <address>717 Ibn Easel St Azzaheria</address>
-        <email>mido1001027@gmail.com</email>
-    </employee>
-
-    <employee>
-        <name>Muhammed Ahmed Ismail</name>
-        <phone>546</phone>
-        <address>717 Ibn Easel St Azzaheria</address>
-        <email>mido1001027@gmail.com</email>
-    </employee>
-    <employee>
-        <name>Muhammed Ahmed Ismail</name>
-        <phone>547</phone>
-        <address>717 Ibn Easel St Azzaheria</address>
-        <email>mido1001027@gmail.com</email>
-    </employee>
-    
-
-    <employee>
-        <name>Ali</name>
-        <phone>01112597144</phone>
-        <address>717 Ibn Easel St Azzaheria</address>
-        <email>mido1001027@gmail.com</email>
+        <email>Muhammed@gmail.com</email>
     </employee>
 </contacts>
