@@ -1,6 +1,6 @@
 <?php
-session_start();
-/*ini_set('error_reporting', E_ALL);
+/*session_start();
+ini_set('error_reporting', E_ALL);
 ini_set( 'display_errors', 1 );*/
 require_once "vendor/autoload.php";
 $xmlManupilator = new ContactsXmlManipulator();
@@ -40,6 +40,7 @@ if (!empty($_GET)) {
     } elseif (isset($_GET["delete"])) {
         $xmlManupilator->deleteEmployeeRecord($current);
         $current =($current-1>0)? $current - 1 : 1;
+        echo $current;
         $empDto = $xmlManupilator->readEmployeeRecordByPosition($current);
     } elseif (isset($_GET["search"])) {
         $empDto = $xmlManupilator->readEmployeeRecordByName($_GET["name"]);
@@ -64,7 +65,7 @@ if (!empty($_GET)) {
                     <label>#NO</label>
                 </td>
                 <td>
-                    <input type="text" readonly name="no" value="<?= $current ?>"><br/>
+                    <input type="text" readonly name="no" value="<?= $current?>"><br/>
                 </td>
             </tr>
             <tr>

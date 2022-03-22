@@ -2,16 +2,14 @@
 <contacts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="contacts_schema.xsd">
 
 
+
     <employee>
-        <name>mukammed</name>
-        <phone>5434</phone>
-        <address>717 Ibn Easel St Azzaheria</address>
-        <email>Muhammed@gmail.com</email>
+        <name>name</name>
+        <phone>phone</phone>
+        <address>address</address>
+        <email>email</email>
     </employee>
-    <employee>
-        <name>Ali</name>
-        <phone>5434</phone>
-        <address>717 Ibn Easel St Azzaheria</address>
-        <email>Muhammed@gmail.com</email>
-    </employee>
-</contacts>
+    
+    
+    
+<employee><name>Abdo</name><phone>1235</phone><address>abc</address><email>abc@abc</email></employee><employee><name>Abdo</name><phone>1236</phone><address>abc</address><email>abc@abc</email></employee></contacts>

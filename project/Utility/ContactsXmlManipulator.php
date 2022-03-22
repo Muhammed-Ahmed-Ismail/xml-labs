@@ -59,6 +59,10 @@ class ContactsXmlManipulator
 
     public function updateEmployeeRecord(int $position,string $name,string $phone,string $address,string $email)
     {
+        if($position==1)
+        {
+            return;
+        }
         $employee=$this->xmlFileHandler->xpath("/contacts/employee[$position]")[0];
         $employee->name=$name;
         $employee->phone=$phone;
@@ -69,6 +73,9 @@ class ContactsXmlManipulator
 
     public function deleteEmployeeRecord (int $poistion)
     {
+        if($poistion==1){
+            return;
+        }
        unset($this->xmlFileHandler->employee[$poistion-1]) ;
        $this->saveToFile();
     }
